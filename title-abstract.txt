@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Forecasting Regional Aggregate Establishment Birth-Death Values: Using Algorithmic Modeling
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Understanding the dynamics of establishment births and deaths is crucial for comprehending economic trends and informing policymaking. However, actual establishment data is often only available with considerable lag, necessitating effective forecasting methodologies. This paper investigates the potential of algorithmic modeling against traditional statistical data modeling in forecasting annual establishment counts at the ZIP Code level, focusing on the San Diego region. To augment our algorithmic modeling approaches we incorporate a diverse set of socio-demographic and economic variables as explanatory features, sourced from U.S. Census datasets. Despite limitations in data availability, our results reveal insights into the comparative performance of statistical and algorithmic models. While statistical models demonstrate superior forecasting accuracy in the absence of recessionary data, algorithmic models exhibit potential for capturing dynamic fluctuations, suggesting a potential to outperform statistical models, particularly during recessionary periods when traditional assumptions about establishment growth falter.
